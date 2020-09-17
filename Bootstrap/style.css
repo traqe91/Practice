@@ -1,0 +1,36 @@
+.fullName{
+margin: auto;
+padding: 40px;
+}
+.linkBar{
+    /* position: relative; */
+    margin: auto;
+    font-size: large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 40px;
+}
+.navbar{
+    /* position: relative; */
+    background-color:rgb(45, 126, 106);
+    position: fixed;
+    /* margin-left: 0%; */
+}
+.container2{
+    background-color: rgb(78, 162, 187);
+}
+.container{
+    /* position: relative; */
+    margin: auto;
+    padding: 20px;
+    
+}
+#contactInfo{
+    color: rgb(12, 12, 15);
+    font-size: 40px;
+}
+.bodyStyle{
+    background-color: rgb(122, 255, 233);
+    margin: auto;
+}
+@media
